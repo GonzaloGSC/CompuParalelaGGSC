@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587400141 source:c:\users\strelok\desktop\softwares usados en la u\paralela\compuparalelaggsc\prueba_diagnostico1_respuestas\pregunta1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,19 @@
+Consulta:
+
+https://www.tutorialesprogramacionya.com/sqlserverya/temarios/descripcion.php?inicio=50&cod=72&punto=66
+
+
+
+¿En que consiste la exclusion mutua?
+
+Consiste en que un proceso excluye a todos los demas mientras se ejecuta de un recurso compartido
+como un unico pocesador por ejemplo. Es de vital importancia tomar las precauciones para que uno
+de estos procesos no sea interrumpido mientras se ejecuta en la seccion critica, ya que puede generar
+graves fallos.
+
+¿Que es un socket?
+
+Es un tipod e software que establece un enlace de comunicacion bidireccional entre los extremos de dos 
+usuarios o usuario/servidor. Constituyen el mecanismo de entrega y recepcion de paquetes y quedan 
+definidos por un par de direcciones ip (local y remota), un protocolo de transporte y numeros de puertos 
+(local y remoto).
