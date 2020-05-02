@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588380530 source:c:\users\strelok\desktop\compuparalelaggsc\taller1grupal\taller1c++\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<sstream>
+
