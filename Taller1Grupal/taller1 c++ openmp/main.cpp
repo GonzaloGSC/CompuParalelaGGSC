@@ -11,7 +11,7 @@ void integrantes()
     cout <<"\nIntegrantes:\n\nGonzalo Salinas\nCamila Carrasco\nIgnacio Valdes\n" << endl;
 }
 
-int main()
+int main() /// CREAR ARCHIVO "resultados.csv" con script en carpeta "tarea en clase rut psu", luego, colocarlo en el directorio de esta tarea.
 {
     integrantes();
     cout << "Leyendo archivo de resultados...\n\n" << endl;
