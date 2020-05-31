@@ -20,7 +20,7 @@ void participante();
  */
 int main(int argc, char** argv) {
 
-    std::ofstream archivoSalida("resultados.csv");
+    std::ofstream archivoSalida("puntajes.csv");
     archivoSalida << "rut;nem;rank;mat;leng;ciencia;historia"<< std::endl;
     int rut = 14916641;
     srand((unsigned int)time(NULL));
